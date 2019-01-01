@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ef4e892-f79e-4edd-a115-8735fa2cdc41" name="Default" comment="Partie 2 (suite): interface de visualisation&#10;- nettoyage du fichier HTML">
+    <list default="true" id="1ef4e892-f79e-4edd-a115-8735fa2cdc41" name="Default" comment="Partie 2 : interface de visualisation&#10;- Ecran de resultat qui affiche l'etat d'une commande">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Mcommerce-SpringAdmin.iws" />
@@ -291,7 +291,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546342016964" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546342294579" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v8.4.0/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Postman-McommerceActivites" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -850,7 +850,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546341763158</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Partie 2 : interface de visualisation&#10;- Ecran de resultat qui affiche l'etat d'une commande">
+      <created>1546342275241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546342275241</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -925,7 +932,8 @@
     <MESSAGE value="Partie 1 (Suite): création du nouveau Microservice microservice-expedition&#10;- Dossier Postman-McommerceActivites/Partie1 contenant toutes les copies d'ecrans et un export json" />
     <MESSAGE value="Partie 2 : interface de visualisation&#10;- création d'une page qui affiche l’état de la commande&#10;-  Ajout des Edges Microservices : Config, Ribon, Feign, Eureka et Zuul&#10;- Creation coté client d'un bean et d'un proxy pour mapper le microservice-expedition&#10;- ajout d'une methode dans le controller du client pour utiliser le proxy et recuperer le bean dans le HTML" />
     <MESSAGE value="Partie 2 (suite): interface de visualisation&#10;- nettoyage du fichier HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Partie 2 (suite): interface de visualisation&#10;- nettoyage du fichier HTML" />
+    <MESSAGE value="Partie 2 : interface de visualisation&#10;- Ecran de resultat qui affiche l'etat d'une commande" />
+    <option name="LAST_COMMIT_MESSAGE" value="Partie 2 : interface de visualisation&#10;- Ecran de resultat qui affiche l'etat d'une commande" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
