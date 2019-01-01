@@ -38,6 +38,17 @@ public class ExpeditionController {
         return expedition;
     }
 
+    @GetMapping(value = "/expeditions/commande/{idCommande}")
+    public Expedition recupererUneExpeditionCommande(@PathVariable int idCommande) throws ExpeditionNotFoudException {
+
+        Expedition expedition = expeditionDao.findByidCommande(idCommande);
+
+        if (expedition == null)
+            throw new ExpeditionNotFoudException("Cette expedition (ou cette commande) n'existe pas");
+
+        return expedition;
+    }
+
     @PutMapping(value = "/expeditions")
     public void updateExpedition(@RequestBody Expedition expedition) {
 
