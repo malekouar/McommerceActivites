@@ -1,0 +1,162 @@
+{
+  "id": "1bb57898-1f3f-4e41-b5e2-f0c1fba17641",
+  "name": "McommerceActivites-Partie1",
+  "allTests": [],
+  "timestamp": "2018-12-31T23:44:06.756Z",
+  "collection_id": "bec7af1c-f4c0-458e-a98f-d465b16e92f7",
+  "folder_id": 0,
+  "target_type": "collection",
+  "environment_id": "0",
+  "data": [],
+  "delay": 0,
+  "count": 1,
+  "collection": {
+    "id": "bec7af1c-f4c0-458e-a98f-d465b16e92f7",
+    "name": "McommerceActivites-Partie1",
+    "description": "Ajout d'une Expedition dans la base de données",
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [
+      "8b92ecd7-ad18-44de-a1be-df4862430998",
+      "4bc84ace-6be0-4f7e-ab2f-5025bd4d7d02",
+      "410c2cbc-d013-423e-934e-bdaf8e025fdd"
+    ],
+    "folders_order": [],
+    "owner": "6212081",
+    "permissions": {},
+    "favorite": false,
+    "shared": false,
+    "type": "collection",
+    "depth": 0
+  },
+  "folder": null,
+  "environment": null,
+  "globals": [],
+  "results": [
+    {
+      "name": "Ajout d'une Expedition",
+      "id": "8b92ecd7-ad18-44de-a1be-df4862430998",
+      "url": "http://localhost:9006/expeditions",
+      "totalTime": 0,
+      "responseCode": {
+        "code": 201,
+        "name": "Created",
+        "detail": {
+          "name": "Created",
+          "detail": "The request has been fulfilled and resulted in a new resource being created."
+        }
+      },
+      "testPassFailCounts": {},
+      "times": [
+        "40"
+      ],
+      "allTests": [
+        {}
+      ],
+      "time": "40",
+      "totalRequestTime": "40",
+      "iterationResults": {}
+    },
+    {
+      "name": "Recuperer une expedition",
+      "id": "4bc84ace-6be0-4f7e-ab2f-5025bd4d7d02",
+      "url": "http://localhost:9006/expeditions/3",
+      "totalTime": 0,
+      "responseCode": {
+        "code": 200,
+        "name": "OK",
+        "detail": {
+          "name": "OK",
+          "detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+        }
+      },
+      "testPassFailCounts": {},
+      "times": [
+        "6"
+      ],
+      "allTests": [
+        {}
+      ],
+      "time": "6",
+      "totalRequestTime": "6",
+      "iterationResults": {}
+    },
+    {
+      "name": "update une Expedition",
+      "id": "410c2cbc-d013-423e-934e-bdaf8e025fdd",
+      "url": "http://localhost:9006/expeditions",
+      "totalTime": 0,
+      "responseCode": {
+        "code": 200,
+        "name": "OK",
+        "detail": {
+          "name": "OK",
+          "detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+        }
+      },
+      "testPassFailCounts": {},
+      "times": [
+        "9"
+      ],
+      "allTests": [
+        {}
+      ],
+      "time": "9",
+      "totalRequestTime": "9",
+      "iterationResults": {}
+    }
+  ],
+  "totalPass": 0,
+  "totalFail": 0,
+  "totalTime": 55,
+  "lifecycle": "done",
+  "requests": [
+    {
+      "name": "Ajout d'une Expedition",
+      "id": "8b92ecd7-ad18-44de-a1be-df4862430998",
+      "url": "http://localhost:9006/expeditions",
+      "time": "2018-12-31T23:44:06.756Z",
+      "responseCode": {
+        "code": 201,
+        "name": "Created",
+        "detail": {
+          "name": "Created",
+          "detail": "The request has been fulfilled and resulted in a new resource being created."
+        }
+      },
+      "testPassFailCounts": {}
+    },
+    {
+      "name": "Recuperer une expedition",
+      "id": "4bc84ace-6be0-4f7e-ab2f-5025bd4d7d02",
+      "url": "http://localhost:9006/expeditions/3",
+      "time": "2018-12-31T23:44:06.756Z",
+      "responseCode": {
+        "code": 200,
+        "name": "OK",
+        "detail": {
+          "name": "OK",
+          "detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+        }
+      },
+      "testPassFailCounts": {}
+    },
+    {
+      "name": "update une Expedition",
+      "id": "410c2cbc-d013-423e-934e-bdaf8e025fdd",
+      "url": "http://localhost:9006/expeditions",
+      "time": "2018-12-31T23:44:06.756Z",
+      "responseCode": {
+        "code": 200,
+        "name": "OK",
+        "detail": {
+          "name": "OK",
+          "detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+        }
+      },
+      "testPassFailCounts": {}
+    }
+  ],
+  "synced": false
+}
