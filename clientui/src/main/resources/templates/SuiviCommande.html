@@ -18,8 +18,6 @@
         <div class="col-md-4 mx-auto mt-5 text-center">
             <h1 class="text-center">Exercice 2</h1>
 
-            <!--<img th:src="${produit.image}" class="card-img-top"/>-->
-
             <p>Commande n° : <span th:text="${expedition.idCommande}" class="font-weight-bold"></span>
             </p>
 
@@ -27,10 +25,6 @@
             <p class="font-weight-bold">
                 <span th:text="${expedition.etatLibelle}" th:class="${expedition.etatLibelleClass} "></span>
             </p>
-
-            <!--<p>-->
-            <!--<a th:href="@{|/commander-produit/${produit.id}/${produit.prix}||}" class="font-weight-bold">COMMANDER</a>-->
-            <!--</p>-->
 
         </div>
     </div>
