@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ef4e892-f79e-4edd-a115-8735fa2cdc41" name="Default" comment="Partie 1 (Suite): création du nouveau Microservice microservice-expedition&#10;- Dossier Postman-McommerceActivites/Partie1 contenant toutes les copies d'ecrans et un export json">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="1ef4e892-f79e-4edd-a115-8735fa2cdc41" name="Default" comment="Partie 2 (suite): interface de visualisation&#10;- nettoyage du fichier HTML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/controller/ClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-expedition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-expedition/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-expedition/src/main/java/com/mexpedition/MexpeditionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-expedition/src/main/java/com/mexpedition/MexpeditionApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-expedition/src/main/java/com/mexpedition/web/controller/ExpeditionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-expedition/src/main/java/com/mexpedition/web/controller/ExpeditionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-expedition/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-expedition/src/main/resources/bootstrap.properties" afterDir="false" />
     </list>
     <ignored path="Mcommerce-SpringAdmin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/microservice-expedition/src/main/java/com/mexpedition/web/controller/ExpeditionController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/microservice-expedition/src/main/java/com/mexpedition/model/Expedition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#555#556#0" expanded="true" />
@@ -77,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/clientui/src/main/java/com/clientui/controller/ClientController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="146" column="84" lean-forward="true" selection-start-line="146" selection-start-column="84" selection-end-line="146" selection-end-column="84" />
+              <caret line="144" column="84" selection-start-line="144" selection-start-column="84" selection-end-line="144" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -97,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/clientui/src/main/resources/templates/SuiviCommande.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="258">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding>
                 <element signature="e#668#676#0" expanded="true" />
               </folding>
@@ -138,7 +132,7 @@
         <entry file="file://$PROJECT_DIR$/microservice-expedition/src/main/resources/data.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -285,418 +279,7 @@
           <expand>
             <path>
               <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="proxies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clientui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="configserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server-repo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mcommandes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mcommandes" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mcommandes" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mcommandes" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-commandes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mcommandes" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mexpedition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mexpedition" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mexpedition" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mexpedition" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="Expedition" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mexpedition" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mexpedition" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-expedition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-paiement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-paiement" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-paiement" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-paiement" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mproduits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mproduits" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mproduits" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mproduits" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mproduits" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuulserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuulserver" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuulserver" type="462c0819:PsiDirectoryNode" />
-              <item name="filters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McommerceActivites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Postman-McommerceActivites" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -708,7 +291,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546341135454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546342016964" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v8.4.0/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Postman-McommerceActivites" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -1253,7 +836,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546328074164</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Partie 2 : interface de visualisation&#10;- création d'une page qui affiche l’état de la commande&#10;-  Ajout des Edges Microservices : Config, Ribon, Feign, Eureka et Zuul&#10;- Creation coté client d'un bean et d'un proxy pour mapper le microservice-expedition&#10;- ajout d'une methode dans le controller du client pour utiliser le proxy et recuperer le bean dans le HTML">
+      <created>1546341669898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546341669898</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Partie 2 (suite): interface de visualisation&#10;- nettoyage du fichier HTML">
+      <created>1546341763158</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546341763158</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1270,9 +867,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="855" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29948586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28791773" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -1327,7 +923,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Partie 1 : création du nouveau Microservice microservice-expedition&#10;- intégrer les starters web, Actuator, JPA et H2,&#10;- avoir un nom déclaré,&#10;- écouter le port 9006.&#10;- classe Expedition dans un package appelé model&#10;- Controller avec les methodes (ajout, recup et update)&#10;- Dossier Postman-McommerceActivites/Partie1 contenant toutes les copies d'ecrans et un export json" />
     <MESSAGE value="Partie 1 (Suite): création du nouveau Microservice microservice-expedition&#10;- Dossier Postman-McommerceActivites/Partie1 contenant toutes les copies d'ecrans et un export json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Partie 1 (Suite): création du nouveau Microservice microservice-expedition&#10;- Dossier Postman-McommerceActivites/Partie1 contenant toutes les copies d'ecrans et un export json" />
+    <MESSAGE value="Partie 2 : interface de visualisation&#10;- création d'une page qui affiche l’état de la commande&#10;-  Ajout des Edges Microservices : Config, Ribon, Feign, Eureka et Zuul&#10;- Creation coté client d'un bean et d'un proxy pour mapper le microservice-expedition&#10;- ajout d'une methode dans le controller du client pour utiliser le proxy et recuperer le bean dans le HTML" />
+    <MESSAGE value="Partie 2 (suite): interface de visualisation&#10;- nettoyage du fichier HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Partie 2 (suite): interface de visualisation&#10;- nettoyage du fichier HTML" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1643,7 +1241,7 @@
     <entry file="file://$PROJECT_DIR$/clientui/src/main/java/com/clientui/controller/ClientController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="146" column="84" lean-forward="true" selection-start-line="146" selection-start-column="84" selection-end-line="146" selection-end-column="84" />
+          <caret line="144" column="84" selection-start-line="144" selection-start-column="84" selection-end-line="144" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -1674,14 +1272,14 @@
     <entry file="file://$PROJECT_DIR$/microservice-expedition/src/main/resources/data.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-expedition/src/main/java/com/mexpedition/model/Expedition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#555#556#0" expanded="true" />
@@ -1703,7 +1301,7 @@
     <entry file="file://$PROJECT_DIR$/microservice-expedition/src/main/java/com/mexpedition/web/controller/ExpeditionController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1729,8 +1327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/clientui/src/main/resources/templates/SuiviCommande.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="258">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
           <folding>
             <element signature="e#668#676#0" expanded="true" />
           </folding>
